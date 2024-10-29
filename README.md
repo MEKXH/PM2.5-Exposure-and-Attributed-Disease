@@ -37,9 +37,9 @@ PM2.5 Exposure and Attributed Disease/
 ├── src/                # 源代码文件夹
 │   ├── assets/         # 全局样式文件等
 │   ├── components/     # 组件
-│   ├── views/     # 页面组件
-│   ├── router/     # 路由
-│   ├── utils/     # 2D页面地图颜色配置
+│   ├── views/          # 页面组件
+│   ├── router/         # 路由
+│   ├── utils/          # 2D页面地图颜色配置
 │   ├── App.vue         # 主应用组件
 │   ├── main.ts         # 入口文件
 ├── index.html          # 入口 HTML 文件
